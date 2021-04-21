@@ -1,10 +1,10 @@
-#ÇëÏÈÈ¥ DNSPod ºóÌ¨Ôö¼ÓÒ»Ìõ A »ò AAAA ¼ÇÂ¼È»ºóÌîĞ´ÒÔÏÂ²ÎÊı£º
-$sub_domain = "ÄãµÄÓòÃû£¨¿ÉÒÔÊÇ×ÓÓòÃû£©"
-$domain = "ÄãµÄÖ÷ÓòÃû"
-#ÒÔÏÂÁ½Ïî´Ó¿ØÖÆÌ¨Éú³É https://console.dnspod.cn/account_id/token
-$account_id = "ID"
-$token = "Token"
-#ÒÔÉÏÎªĞèÒªÊÖ¶¯ÌîĞ´µÄÄÚÈİ¡£
+#è¯·å…ˆå» DNSPod åå°å¢åŠ ä¸€æ¡ A æˆ– AAAA è®°å½•ç„¶åå¡«å†™ä»¥ä¸‹å‚æ•°ï¼š
+$sub_domain = "891282.xyz"
+$domain = "891282.xyz"
+#ä»¥ä¸‹ä¸¤é¡¹ä»æ§åˆ¶å°ç”Ÿæˆ https://console.dnspod.cn/account_id/token
+$account_id = "230895"
+$token = "27ac1f79db84c73161355672a3bf0753"
+#ä»¥ä¸Šä¸ºéœ€è¦æ‰‹åŠ¨å¡«å†™çš„å†…å®¹ã€‚
 Set-Location -Path $PSScriptRoot
 
 function Get-IP {
